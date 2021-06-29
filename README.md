@@ -1,7 +1,7 @@
 # Tweet-Emotion-Recognition
 Tensorflow model to recognise emotions related to tweets using a LSTM model.<br /><br/>
 Dataset Summary <br />
-Emotion is a dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. For more detailed information please refer to the paper.<br/><br/>
+Emotion is a dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. For more detailed information please refer to https://huggingface.co/datasets/emotion .<br/><br/>
 Accuracies achieved:<br/><br/>
   Training set: 96.99% <br/>
   Validation set: 87.90% <br/>
